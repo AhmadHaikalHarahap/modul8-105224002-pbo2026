@@ -30,3 +30,5 @@ public class Pahlawan extends Karakter {
         System.out.println(nama + " menggunakan potion (+20 HP)");
     }
 }
+
+// class turunan Karakter yang merepresentasikan pemain. Memiliki serangan lebih kuat, bisa menggunakan skill (overloading method), bertahan untuk mengurangi damage, dan menggunakan item untuk menambah HP //
