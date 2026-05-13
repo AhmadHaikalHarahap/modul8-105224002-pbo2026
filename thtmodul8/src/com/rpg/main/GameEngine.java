@@ -64,3 +64,5 @@ public class GameEngine {
         System.out.println("\nSelamat! Semua monster dikalahkan!");
     }
 }
+
+// class utama yang menjalankan permainan. Mengatur alur game mulai dari input nama pemain, pertarungan melawan monster, hingga menentukan menang atau kalah. //
