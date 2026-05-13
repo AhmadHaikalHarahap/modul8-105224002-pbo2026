@@ -27,3 +27,6 @@ public abstract class Karakter implements AksiBertarung {
         if (hp < 0) hp = 0;
     }
 }
+
+// abstract class sebagai induk dari semua karakter. Menyimpan atribut seperti nama, hp, dan baseDamage //
+// method terimaDamage() untuk mengurangi HP saat terkena serangan //
