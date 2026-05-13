@@ -5,3 +5,5 @@ public interface AksiBertarung {
     void bertahan(int damage);
     void gunakanItem();
 }
+
+// Interface yang berisi aksi dasar dalam pertarungan yaitu serang(), bertahan(), dan gunakanItem(). //
