@@ -21,3 +21,5 @@ public class Monster extends Karakter {
         System.out.println(nama + " tidak punya item!");
     }
 }
+
+// class turunan Karakter sebagai musuh. Memiliki serangan standar, tidak bisa menggunakan item, dan saat bertahan dapat melakukan regenerasi HP. //
